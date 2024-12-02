@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:TisleR351/FullStack-Project-React.git
+[submodule "android"]
+	path = android
+	url = git@github.com:nasiiimb/quizAndroid.git
